@@ -52,11 +52,19 @@
     background-color: #333;
 }
 
+.main-nav:hover {
+    height: 85px;
+}/*allows you to enlarge or change whatever you specify to enlarve or change. Links are examples. */
+
 .logo {
     height: 50px;
     padding: 10px;
 }
 
+.logo-hover {
+    height: 66px;
+
+}
 .nav-list{
     float: right;
     list-style-type: none;
@@ -76,3 +84,4 @@ li:hover {
 .center {
     text-align: center;
 }
+
