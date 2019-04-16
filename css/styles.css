@@ -54,7 +54,8 @@
 
 .main-nav:hover {
     height: 85px;
-}/*allows you to enlarge or change whatever you specify to enlarve or change. Links are examples. */
+}
+/*allows you to enlarge or change whatever you specify to enlarve or change. Links are examples. */
 
 .logo {
     height: 50px;
@@ -85,3 +86,25 @@ li:hover {
     text-align: center;
 }
 
+/* content styles*/
+.content {
+    height: 85vh;
+}
+/* content styles end*/
+
+/* footer styles*/
+.footer {
+    background-color: brown;
+}
+
+.social-media {
+   height: 50px;
+   margin-bottom: 0;
+   list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+/* footer styles end*/
