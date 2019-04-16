@@ -83,5 +83,23 @@ li:hover {
 
 .center {
     text-align: center;
+
+}
+/* content styles*/
+.content {
+    height: 600 px;
+
+}
+/* content styles end*/
+
+/* footer styles*/
+.footer {
+    background-color: brown;
 }
 
+.social-media {
+   height: 50px;
+   margin-bottom: 0;
+}
+
+/* footer styles end*/
