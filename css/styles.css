@@ -87,8 +87,7 @@ li:hover {
 }
 /* content styles*/
 .content {
-    height: 600 px;
-
+    height: 85vh;
 }
 /* content styles end*/
 
@@ -100,6 +99,11 @@ li:hover {
 .social-media {
    height: 50px;
    margin-bottom: 0;
+   list-style-type: none;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
 /* footer styles end*/
