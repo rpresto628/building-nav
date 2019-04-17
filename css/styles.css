@@ -84,20 +84,25 @@ li:hover {
 
 .center {
     text-align: center;
+
+}
+/* content styles*/
+.content {
+    height: 85vh;
+}
+/* content styles end*/
+
+/* footer styles*/
+.footer {
+    background-color: brown;
 }
 
+.audio-video
 /* content styles*/
 .content {
     height: 85vh;
 }
 
-.audio {
-    allign: center;
-}
-
-.video {
-    allign: center;
-}
 /* content styles end*/
 
 /* footer styles*/
@@ -111,7 +116,7 @@ li:hover {
    list-style-type: none;
 }
 
-a {
+{
     color: white;
     text-decoration: none;
 }
