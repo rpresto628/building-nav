@@ -90,19 +90,51 @@ li:hover {
 .content {
     height: 85vh;
 }
-/* content styles end*/
 
-/* footer styles*/
-.footer {
-    background-color: brown;
+.map-frame {
+    width: 300px;
 }
 
-.audio-video
-/* content styles*/
-.content {
-    height: 85vh;
+.audio {
+    width: 560px;
+    object-position: center;
 }
 
+.video {
+    width: 560px;
+    object-position: center;
+}
+
+.margin-0-auto {
+    margin: 0 auto;
+}
+
+.button {
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    color: white;
+}
+
+.button-success {
+    border: 1px solid #fff;
+    background: green;
+    width: 150px;
+}  
+
+.button-default {
+    background: #ccc;
+    color: black;
+}
+.button-danger{ 
+    width: 250px;
+    background: red;
+    color: white;
+}
+
+.button-small {
+    width: 150px;
+}
 /* content styles end*/
 
 /* footer styles*/
@@ -116,7 +148,7 @@ li:hover {
    list-style-type: none;
 }
 
-{
+a {
     color: white;
     text-decoration: none;
 }
