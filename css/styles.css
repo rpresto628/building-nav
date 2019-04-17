@@ -90,6 +90,14 @@ li:hover {
 .content {
     height: 85vh;
 }
+
+.audio {
+    allign: center;
+}
+
+.video {
+    allign: center;
+}
 /* content styles end*/
 
 /* footer styles*/
